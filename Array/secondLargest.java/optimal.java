@@ -1,6 +1,3 @@
-
-
-
 import java.io.*;
 class optimal
 {
@@ -63,3 +60,6 @@ public static void main(String[] args)
 }
 
 
+// Time Complexity: O(N), Single-pass solution
+
+// Space Complexity: O(1)
